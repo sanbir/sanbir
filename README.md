@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **P2P** Ethereum staking, **Lido** on Ethereum<br>🌱 I’m currently learning **Web3** security, **EVM** smart contract vulnerabilities<br>💬 Ask me about EVM, **Solidity**<br>⚡ Fun fact: I love ```cast w va --starts-with 00000000```
+🔭 I’m currently working on **P2P** Ethereum staking, **Lido** on Ethereum<br>🌱 I’m currently learning **Web3** security, **EVM** smart contract vulnerabilities<br>💬 Ask me about EVM, **Solidity**<br>⚡ Fun fact: I love ```cast w va --starts-with 0000000000```
 
 
 ## 🌐 Socials:
